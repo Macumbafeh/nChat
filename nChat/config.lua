@@ -1,7 +1,7 @@
 local _, nChat = ...
 
 nChat.Config = {
- alwaysAlertOnWhisper = true,-- doesn't work
+ -- alwaysAlertOnWhisper = true,-- doesn't work
    -- disableFade = false, -- doesn't work
    -- enableChatWindowBorder = false, -- doesn't work
    -- enableVoiceChatButtons = false, -- doesn't exist on 3.3.5
