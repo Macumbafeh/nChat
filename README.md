@@ -1,6 +1,6 @@
 # nChat
 
-Addons from NeavUI from classic ported to 3.3.5 
+Chat addons from NeavUI from classic ported to 3.3.5 
 
 
 ## Source
