@@ -8,7 +8,7 @@ To avoid any issues you should use the lib ClassicAPI from Tsoukie to make it wo
 https://github.com/lithammer/NeavUI/tree/master/Interface/AddOns/nChat
 
 ## Features
-- Simplistic chat addon wich :
+- Simplistic chat addon which :
 - Changes the prefixes for various chat types and Message Formatting: (1) instead of (1 - general), Guild: (G), Party: (P), Raid: (R), Battleground: (bg)
 - Enable link in chat, and you can copy them
 
