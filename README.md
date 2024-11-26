@@ -36,7 +36,6 @@ In config.lua you can enable/disable thoses features :
 - Show the chat input box above the chat window
 - Ignore the arrow keys when typing in the input box unless alt is pressed
 
-## Config
 Some feature can be disabled in the config.lua file, just set to false or true depending what you want or not
 
 ![image](https://github.com/user-attachments/assets/2f320e65-d890-4065-b5b4-c1f214605f2c)
