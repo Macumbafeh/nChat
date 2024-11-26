@@ -2,6 +2,7 @@
 
 Chat addons from NeavUI from classic ported to 3.3.5 
 
+To avoid any issue you should use the lib ClassicAPI from Tsoukie to make it work without error : https://gitlab.com/Tsoukie/classicapi
 
 ## Source
 https://github.com/lithammer/NeavUI/tree/master/Interface/AddOns/nChat
