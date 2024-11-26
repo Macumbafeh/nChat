@@ -6,7 +6,7 @@ Chat addons from NeavUI from classic ported to 3.3.5
 ## Source
 https://github.com/lithammer/NeavUI/tree/master/Interface/AddOns/nChat
 
-## Feature
+## Features
 - Simplistic chat addon with :
 - Changes the prefixes for various chat types and Message Formatting: (1) instead of (1 - general), Guild: (G), Party: (P), Raid: (R), Battleground: (bg)
 - Enable link in chat, and you can copy them
@@ -24,6 +24,7 @@ https://github.com/lithammer/NeavUI/tree/master/Interface/AddOns/nChat
 ![image](https://github.com/user-attachments/assets/852655ab-201c-41b0-a42b-ab4ead36c7f3)
 
 
+## Config
 In config.lua you can enable/disable thoses features : 
 - Enable Outline text on chat
 - Enable tooltip of item, quests and such when you mouse over it on chat
