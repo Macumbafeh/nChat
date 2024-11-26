@@ -23,6 +23,7 @@ https://github.com/lithammer/NeavUI/tree/master/Interface/AddOns/nChat
 
 ![image](https://github.com/user-attachments/assets/852655ab-201c-41b0-a42b-ab4ead36c7f3)
 
+
 In config.lua you can enable/disable thoses features : 
 - Enable Outline text on chat
 - Enable tooltip of item, quests and such when you mouse over it on chat
