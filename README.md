@@ -16,14 +16,14 @@ https://github.com/lithammer/NeavUI/tree/master/Interface/AddOns/nChat
 - Click on general tab with MiddleButton, Button4 or Button5 will open Chat Menu
 
 ![image](https://github.com/user-attachments/assets/136d8c41-5198-468c-91fc-2ee829fa0afa)
-- Improve mousewheel scrolling
+- Improve mousewheel scrolling (Supports Shift+Mousewheel to jump to the top or bottom.)
 - Add a file icon on top right of the chat which open a new frame which let you copy all the chat.
 
 ![image](https://github.com/user-attachments/assets/dcdf268a-3e60-48ca-ba63-98e5f9a37142)
 - Custom font size
 
 ![image](https://github.com/user-attachments/assets/852655ab-201c-41b0-a42b-ab4ead36c7f3)
-
+- Adds a "CombatLog" and "ChatLog" menu option for toggling combat logging.
 
 ## Config
 In config.lua you can enable/disable thoses features : 
