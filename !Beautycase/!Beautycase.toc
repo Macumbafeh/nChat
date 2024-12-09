@@ -1,0 +1,4 @@
+## Interface: 30305
+## Title: !Beautycase
+
+core.lua
